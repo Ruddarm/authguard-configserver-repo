@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      uri: http://host.docker.internal:8888
